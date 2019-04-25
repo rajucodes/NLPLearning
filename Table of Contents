@@ -1,0 +1,33 @@
+1.Introduction
+2.Stages of NLP
+3.Two approaches to NLP
+4.Sequence Labelling and Noisy Channel
+5.Noisy Channel:Argmax based computation
+6.Noisy Channel: Application of NLP
+7.Probabilistic parsing and start of parts of speech
+8.PoS tagging
+9.PoS tagging in Indian Language context
+10.PoS tagging challenges and accuracy
+11.PoS tagging accuracy and measurement
+12.AI and Probability: HMM
+13.HMM
+14.HMM,Vertribi, Forward Backward algorithm
+15.Baum Welch algorithm
+16.NLP and Information Retrieval
+17.CLIA:IR basic
+18.IR Models: Boolean vectors
+19.IR Models: NLP and IR relationship
+20.Latent Semantic
+21.LSM:PCA:Latent Semantic Indexing
+22.PCA:SVD:Latent Semantic Indexing
+23.Wordnet 
+24.Metonymy
+25.Word Sense Disambiguation
+26.WSD: Overlap based method
+27.WSD: Supervised and Unsupervised methods
+28.WSD: Semi-Supervised and Unsupervised methods
+29.Resource Constrained WSD:Parsing
+30.Parsing
+31.Parsing Algorithm
+32.Parsing Ambiguous Sentences; Probabilistic Parsing
+33.Probabilistic Parsing Algorithms
